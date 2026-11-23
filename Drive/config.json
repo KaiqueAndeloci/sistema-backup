@@ -1,0 +1,23 @@
+{
+    "observed-folders": [
+        {
+            "id": "",
+            "name": "",
+            "parent_id": "",
+            "path": "",
+            "modified_time": "",
+            "web_view_link": ""
+        }
+    ],
+    "upload-drive": [
+        {
+            "id": "",
+            "name": "",
+            "parent_id": "",
+            "path": "",
+            "modified_time": "",
+            "web_view_link": "",
+            "files": "D:\\GitHub\\sistema-backup\\Drive\\upload_files.csv"
+        }
+    ]
+}

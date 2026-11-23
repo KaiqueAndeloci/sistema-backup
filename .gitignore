@@ -1,0 +1,8 @@
+environment/
+__pycache__/
+*.py[cod]
+credentials.json
+token.json
+list_folders_token.json
+drive_folders.csv
+observed_folder.json
